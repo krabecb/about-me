@@ -8,7 +8,7 @@
     • 👾 A JavaScript RPG
 - ⚡️ Fun Fact: I am currently hooked on League of Legends!
 
-### Let's [connect][connect]!   
+### Let's [connect][connect]
 
 [website]: https://www.briankrabec.com/
 [connect]: https://www.linkedin.com/in/bkrabec/
