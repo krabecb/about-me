@@ -1,7 +1,7 @@
 ### I see you found my GitHub! My name is Brian, feel free to check out my [portfolio][website]
 
 ## I'm a Bird Dad, Curriculum Developer, and Instructional Associate!
-- 🧑🏽‍🏫 I'm currently teaching MERN
+- 🧑🏽‍🏫 I'm currently teaching Django
 - 🌱 I'm currently learning data structures
 - Upcoming projects: 
     • 🍨 A deployed Django project for a local restuarant
