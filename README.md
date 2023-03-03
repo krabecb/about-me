@@ -39,6 +39,8 @@ I teach lectures to my wonderful students by day and create front-end projects b
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br />
 
+---
+
 ### 📊 Stats
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=krabecb&show_icons=true&theme=monokai)
