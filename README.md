@@ -44,6 +44,6 @@ I teach lectures to my wonderful students by day and create front-end projects b
 
 ### 📊 Stats
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=krabecb&show_icons=true&theme=monokai)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=krabecb&show_icons=true&theme=react)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=krabecb&theme=monokai&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=krabecb&theme=react&border_radius=4.5)
