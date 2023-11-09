@@ -6,7 +6,7 @@ I teach lectures to my wonderful students by day and create front-end projects b
 
 <p align = "left">
     <a href="https://www.linkedin.com/in/bkrabec/">
-         <img alt="linkedin" title="Add me on LinkedIn" src="https://img.shields.io/badge/-Follow-blue/?logo=AddThis&color=blue&logoColor=fff"/>
+         <img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/-Connect-blue/?logo=AddThis&color=blue&logoColor=fff"/>
     </a>
 </p>
 
