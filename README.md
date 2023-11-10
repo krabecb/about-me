@@ -2,7 +2,7 @@
 
 **`Senior Instructional Associate`**
 
-I teach lectures to my wonderful students by day and develop projects by night! Feel free to browse around! You'll find full-stack/back-end applications I've built since I was a student, archived coding challenges that I triumphantly completed, and technologies that peaked my interest. Most of my time is committed to lecture prep/teaching and to the success of my students. I have a soft spot for education and the perpetual process of learning!
+I teach lectures to my wonderful students by day and develop projects by night! Feel free to browse around! You'll find full-stack and back-end applications I've built since I was a student, archived coding challenges that I triumphantly completed, and technologies that peaked my interest. Most of my time is committed to lecture prep/teaching and to the success of my students. I have a soft spot for education and the perpetual process of learning!
 
 <p align = "left">
     <a href="https://www.linkedin.com/in/bkrabec/">
